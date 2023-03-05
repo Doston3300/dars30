@@ -1,0 +1,25 @@
+.container {
+    margin: 0 auto;
+    text-align: center;
+    text-align: center;
+}
+
+.main {
+    display: flex;
+    margin: 0 auto;
+    gap: 30px;
+}
+
+.menu {
+    display: flex;
+    margin-top: 100px;
+}
+
+.btn {
+    width: 100px;
+    height: 50px;
+    border: 1px solid greenyellow;
+    background-color: white;
+    color: greenyellow;
+    border-radius: 10px;
+}
